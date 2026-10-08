@@ -32,7 +32,7 @@ Un semáforo con tus datos de Garmin (sueño, VFC, pulso en reposo, Body Battery
 
 Sube la hoja (PDF o Word) y la app entiende la notación: `Cal + 15-13x (400@SupraLt2 rec.60-50") + vc`, zonas, rangos, continuos variables… Revisa cada día, corrígelo si hace falta y **envíalo a Garmin**: cada entreno queda programado en su fecha, con ritmos objetivo, y el complementario (fuerza, cadera, core…) también, como entreno de fuerza.
 
-¿Cambiaste los días? **Arrastra cada sesión al día en que la haces** (o añade un pilates): el calendario de Garmin, el resumen semanal y la pestaña Hoy se ajustan solos, y te avisa si quedan dos días duros seguidos.
+¿Cambiaste los días? **Arrastra cada sesión al día en que la haces** (o añade un pilates): el calendario de Garmin, el resumen semanal y la pestaña Hoy se ajustan solos, y te avisa si quedan dos días duros seguidos. Cuando tu entrenador te mande la hoja nueva, súbela: las semanas pasadas y tus cambios se conservan.
 
 <img src="assets/entrenos.png" alt="Pestaña Entrenos" width="100%">
 
