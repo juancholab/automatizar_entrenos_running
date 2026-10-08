@@ -32,6 +32,8 @@ Un semáforo con tus datos de Garmin (sueño, VFC, pulso en reposo, Body Battery
 
 Sube la hoja (PDF o Word) y la app entiende la notación: `Cal + 15-13x (400@SupraLt2 rec.60-50") + vc`, zonas, rangos, continuos variables… Revisa cada día, corrígelo si hace falta y **envíalo a Garmin**: cada entreno queda programado en su fecha, con ritmos objetivo, y el complementario (fuerza, cadera, core…) también, como entreno de fuerza.
 
+¿Cambiaste los días? **Arrastra cada sesión al día en que la haces** (o añade un pilates): el calendario de Garmin, el resumen semanal y la pestaña Hoy se ajustan solos, y te avisa si quedan dos días duros seguidos.
+
 <img src="assets/entrenos.png" alt="Pestaña Entrenos" width="100%">
 
 ### Carreras: cada carrera, preparada en privado
@@ -81,21 +83,21 @@ El instalador **no pide contraseña de administrador** y lo deja todo en tu usua
 1. **Cuenta → Conectar con Garmin**: tu email, contraseña y, si te lo pide, el código de verificación.
 2. **Entrenos**: sube la hoja de tu entrenador y envía los entrenos al reloj.
 3. **Carreras**: añade tus carreras y prepara cada una.
-4. **Cuenta → Asistente** *(opcional)*: para el chat, el resumen semanal y el segundo entrenador, elige proveedor de IA (Anthropic, OpenAI o Google), pega tu clave y elige modelo.
+4. **Cuenta → Asistente** *(opcional)*: para el chat, el resumen semanal y el segundo entrenador. Puedes usar **tu suscripción a Claude con Claude Code** (sin pagar API), **modelos locales gratis con Ollama**, o una clave de API de Anthropic, OpenAI o Google.
 
 ## Privacidad
 
 - La app funciona **en tu ordenador** y solo se abre desde él (`127.0.0.1`). No hay servidores de terceros ni cuentas nuevas.
 - La **contraseña de Garmin no se guarda**: se usa una vez para obtener la sesión, que queda en tu usuario.
 - Tus datos (actividades, sueño, plan, carreras, notas) se guardan en tu ordenador y **no se suben a ninguna parte**.
-- Si activas el asistente, las preguntas que le hagas se envían, con el contexto necesario, al proveedor de IA que elijas y con tu propia clave.
+- Si activas el asistente, las preguntas que le hagas se envían, con el contexto necesario, al proveedor de IA que elijas (con Ollama no salen de tu ordenador).
 
 ## Preguntas frecuentes
 
 <details>
 <summary><b>¿Cuánto cuesta?</b></summary>
 
-La app es gratuita. El asistente es opcional: si lo usas, pagas directamente a tu proveedor de IA por lo que consumas con tu clave.
+La app es gratuita. El asistente es opcional y tiene opciones sin coste extra: **Claude Code** usa tu suscripción a Claude y **Ollama** ejecuta modelos gratis en tu ordenador (los pequeños se equivocan más). Con una clave de API pagas a ese proveedor lo que consumas.
 </details>
 
 <details>
